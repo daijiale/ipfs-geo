@@ -12,8 +12,6 @@ Any comments, suggestions? [Let us know!](https://github.com/daijiale/ipfs-geo).
 
 [English](README.md) | [中文](README-zh.md)
 
-![](http://career-pic.oss-cn-beijing.aliyuncs.com/ipfs-smart-object/ipfsgeo/ipfs-geo-dark.jpg)
-
 ## 0\. Summarize
 
 ### 0.0 Project Goal
